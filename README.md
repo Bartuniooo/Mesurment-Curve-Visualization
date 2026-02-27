@@ -102,6 +102,7 @@ git clone https://github.com/Bartuniooo/Mesurment-Curve-Visualization.git
 cd Mesurment-Curve-Visualization
 python Main.py
 ```
+---
 
 ## 👥 Contributors
 - @Matthew-Calish
