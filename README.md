@@ -1,7 +1,7 @@
 # Mesurment Curve Visualization
 
 A Python-based desktop application for calculating and visualizing apparent electrical resistivity curves used in hydrogeophysical profiling. The tool enables analysis of subsurface layer structures using common electrode configurations and provides exportable results for further interpretation. Build as a project on Hydrogeophisics class in 4 people team: @pstryk1, @Matthew-Calish, @jacobkls and me @Bartuniooo. <br> <br>
-**All rights reserved ©**
+**All rights reserved for authors ©**
 
 ---
 
